@@ -1,5 +1,5 @@
 <h1>Joshua Emmanuel Halili</h1>
-<p>💻 1st Year Computer Science Student</p>
+<p>💻 1st Year BSIT Web Development Student</p>
 <p>👷 I love creating and building stuff</p>
 <p>💪 Ready to Conquer the world of dev</p>
 
